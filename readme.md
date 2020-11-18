@@ -39,3 +39,7 @@ Det går även att göra pdf-filen utanför texworks, med de två .bat-filerna s
 ligger i zip-filen. Dubbelklicka på make_document.bat och den ska göra en pdf.
 För att ta bort de filerna som generaras när dokumentet görs kan du klicka på
 clean_files.bat.
+
+## Bibliografi-hantering
+
+[En bra samling med exempel och det som finns att göra](https://www.overleaf.com/learn/latex/bibliography_management_with_biblatex)
